@@ -72,21 +72,19 @@
 
 <br>
 
-### 📈 Estatísticas do GitHub
+<br>
+
+### 📈 Minhas Estatísticas
 
 <div align="center">
-  <!-- Cartão de Estatísticas Gerais (Cores: Título Rosa, Ícones Azuis, Texto Preto, Fundo Transparente) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&theme=transparent&title_color=E3689A&icon_color=6CB2D1&text_color=333333&hide_border=true&bg_color=00000000" alt="Estatísticas da Kelryana" />
+  <!-- Gráfico de Atividade (Linha rosa, texto azul e pontos brancos) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=58B2DC&line=E3689A&point=FFFFFF&hide_border=true" alt="Gráfico de Atividade" width="100%" />
   
-  <br><br>
+  <br>
 
-  <!-- Cartão de Linguagens Mais Usadas (Cores a condizer) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&theme=transparent&title_color=E3689A&text_color=333333&hide_border=true&bg_color=00000000" alt="Linguagens Mais Usadas" />
+  <!-- Painel de Streak (Dias Consecutivos) e Painel de Linguagens lado a lado -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=00000000&border=58B2DC&stroke=58B2DC&ring=E3689A&fire=E3689A&currStreakNum=E3689A&sideNums=4C9F1A&currStreakLabel=58B2DC&sideLabels=58B2DC&dates=4C9F1A" alt="Estatísticas de Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=E3689A&text_color=4C9F1A&border_color=58B2DC" alt="Linguagens Mais Usadas" width="48%" />
 </div>
 
 <br>
-
-<div align="center">
-  <!-- O seu GIF de reflexo de água -->
-  <img src="https://media.giphy.com/media/l41lW1Eeq01zO0E4U/giphy.gif" alt="Reflexo de Água" width="200" style="border-radius: 10px;" />
-</div>
