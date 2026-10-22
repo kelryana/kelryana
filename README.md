@@ -1,11 +1,12 @@
 <div align="center">
- <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
+ <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <br>
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=E3689A&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
 </div>
 
@@ -17,20 +18,17 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" alt="Gota D'água" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" alt="Gota D'água" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" alt="Gota D'água" width="25" />
+  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
 </div>
 
 <br>
 
-### stack de Design e desenvolvimento
+### 🪟 Stack de Design e Desenvolvimento
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <!-- Sugestão: Crie ícones com reflexo de vidro e aplique aqui em fundo transparente -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br><b>HTML5</b>
       </td>
       <td align="center" width="25%">
@@ -48,7 +46,7 @@
 
 <br>
 
-### 💿 projetos
+### 💿 Projetos
 
 <table>
   <tr>
@@ -65,19 +63,10 @@
 
 <br>
 
-<div align="center">
-  <!-- Você pode inserir um GIF sutil de água ou folhas aqui -->
-  <img src="https://media.giphy.com/media/l41lW1Eeq01zO0E4U/giphy.gif" alt="Reflexo de Água" width="200" style="border-radius: 10px;" />
-</div>
-
-<br>
-
-<br>
-
 ### 📈 Minhas Estatísticas
 
 <div align="center">
-  <!-- Gráfico de Atividade: Linha rosa, pontos amarelos e texto cinza claro -->
+  <!-- Gráfico de Atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=C9D1D9&line=F47090&point=F1E05A&hide_border=true" alt="Gráfico de Atividade" width="100%" />
   
   <br>
@@ -88,3 +77,8 @@
 </div>
 
 <br>
+
+<div align="center">
+  <!-- GIF das Tulipas em Pixel Art no rodapé -->
+  <img src="Tulips.jpg" alt="Tulipas Animadas em Pixel Art" width="100%" style="border-radius: 10px;" />
+</div>
