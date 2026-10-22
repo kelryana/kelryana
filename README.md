@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globo Brilhante" width="35" />
+  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="55" />
   <h1>Olá, sou a Kelryana</h1>
 </div>
 
