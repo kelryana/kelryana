@@ -69,3 +69,24 @@
   <!-- Você pode inserir um GIF sutil de água ou folhas aqui -->
   <img src="https://media.giphy.com/media/l41lW1Eeq01zO0E4U/giphy.gif" alt="Reflexo de Água" width="200" style="border-radius: 10px;" />
 </div>
+
+<br>
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <!-- Cartão de Estatísticas Gerais (Cores: Título Rosa, Ícones Azuis, Texto Preto, Fundo Transparente) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&theme=transparent&title_color=E3689A&icon_color=6CB2D1&text_color=333333&hide_border=true&bg_color=00000000" alt="Estatísticas da Kelryana" />
+  
+  <br><br>
+
+  <!-- Cartão de Linguagens Mais Usadas (Cores a condizer) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&theme=transparent&title_color=E3689A&text_color=333333&hide_border=true&bg_color=00000000" alt="Linguagens Mais Usadas" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- O seu GIF de reflexo de água -->
+  <img src="https://media.giphy.com/media/l41lW1Eeq01zO0E4U/giphy.gif" alt="Reflexo de Água" width="200" style="border-radius: 10px;" />
+</div>
