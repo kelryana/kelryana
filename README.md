@@ -77,14 +77,14 @@
 ### 📈 Minhas Estatísticas
 
 <div align="center">
-  <!-- Gráfico de Atividade (Linha rosa, texto azul e pontos brancos) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=58B2DC&line=E3689A&point=FFFFFF&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+  <!-- Gráfico de Atividade: Linha rosa, pontos amarelos e texto cinza claro -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=C9D1D9&line=F47090&point=F1E05A&hide_border=true" alt="Gráfico de Atividade" width="100%" />
   
   <br>
 
-  <!-- Painel de Streak (Dias Consecutivos) e Painel de Linguagens lado a lado -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=00000000&border=58B2DC&stroke=58B2DC&ring=E3689A&fire=E3689A&currStreakNum=E3689A&sideNums=4C9F1A&currStreakLabel=58B2DC&sideLabels=58B2DC&dates=4C9F1A" alt="Estatísticas de Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=E3689A&text_color=4C9F1A&border_color=58B2DC" alt="Linguagens Mais Usadas" width="48%" />
+  <!-- Painel de Streak e Linguagens -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=00000000&border=00000000&stroke=F47090&ring=F1E05A&fire=F47090&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F47090&sideLabels=F47090&dates=C9D1D9" alt="Estatísticas de Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=F47090&text_color=C9D1D9&border_color=00000000&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
 </div>
 
 <br>
