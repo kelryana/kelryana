@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="Tulips.gif" alt="Tulipas Gif" width="90" />
+  <img src="Tulips.gif" alt="Tulipas Gif" width="100" />
 </div>
 
 <br>
