@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
-  <h1>Olá, sou a Kelryana</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=005B9F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+a+Kelryana" alt="Olá, sou a Kelryana" />
 </div>
 
 <div align="center">
