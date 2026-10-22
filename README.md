@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="75" />
+  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
   <h1>Olá, sou a Kelryana</h1>
 </div>
 
