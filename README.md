@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=E3689A&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
 </div>
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
+  <img src="Tulips.gif" alt="Tulipas Gif" width="90" />
 </div>
 
 <br>
