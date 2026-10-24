@@ -1,97 +1,79 @@
-<!-- Banner Principal Frutiger Aero -->
 <div align="center">
-  <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" style="border-radius: 15px;"/>
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" alt="Banner Frutiger Aero" width="100%" style="border-radius: 15px;"/>
   
   <br><br>
   
-  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="70" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=30&color=F47090&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
-
+  <h1>Bem-vindo ao meu GitHub</h1>
+  <h3>Desenvolvedor Front-end | UI/UX Designer</h3>
+  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kelryana&label=Profile%20views&color=58B2DC&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20views&color=00a8ff&style=flat-square" alt="Profile views" />
   </p>
   
-  <!-- Redes Sociais com fundo escuro e logotipos nas cores da sua paleta -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=for-the-badge&logo=Linkedin&logoColor=58B2DC"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-1A1A1A?style=for-the-badge&logo=Gmail&logoColor=F47090"/></a>
-  <a href="https://seu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-1A1A1A?style=for-the-badge&logo=figma&logoColor=F1E05A"/></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&color=00a8ff"/></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=00ccff"/></a>
+  <a href="https://seu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=7cff01"/></a>
 </div>
 
 <br>
 
 ---
 
-## 🫧 Sobre Mim
+<div align="center">
+  <h2>S O B R E &nbsp; M I M</h2>
+</div>
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      Olá! Sou a Kelryana, <b>Desenvolvedora Full-Stack | UX/UI Designer | AI Explorer</b>.<br><br>
-      🌱 <b>O que eu faço:</b> Construo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end.<br><br>
-      ✨ <b>Pesquisa Atual:</b> Estou aprofundando os meus estudos na composição lógica por trás da Inteligência Artificial.<br><br>
-      🎯 <b>Missão:</b> Unir estética imersiva (Frutiger Aero, Glassmorphism) com usabilidade e funcionalidade avançada.
+      Olá! Sou um especialista focado na interseção entre <b>Design e Código</b>. Tenho paixão por criar interfaces limpas, painéis otimizados e experiências de usuário fluidas. 
+      <br><br>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #00a8ff;"/> <b>O que eu faço:</b> Estilização avançada de componentes, web design e otimização de contraste visual.
+      <br><br>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #00a8ff;"/> <b>Interesses:</b> Layouts minimalistas, alternadores de temas e isolamento de elementos visuais em vetores transparentes.
+      <br><br>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #00a8ff;"/> <b>Foco atual:</b> Aprimoramento de usabilidade e clareza visual em UI.
     </td>
     <td width="40%" align="center">
-      <!-- GIF das Tulipas encaixado na tabela de apresentação -->
-      <img src="Tulips.gif" width="90%" alt="Tulipas Frutiger Aero" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(88,178,220,0.3);"/>
+      <img src="https://i.pinimg.com/originals/9f/f0/a8/9ff0a8d672eaeb5ceb52750e30349b14.gif" width="70%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,168,255,0.5);"/>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🌿 Tecnologias e Ecossistema
+<div align="center">
+  <h2>T E C N O L O G I A S</h2>
+</div>
 
 <div align="center">
-  <!-- Badges de tecnologias mesclando o estilo do seu modelo com o nosso tema escuro/neon suave -->
-  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F1E05A" />
-  <img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=58B2DC" />
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F47090" />
-  <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=4C9F1A" />
-  <img src="https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=C9D1D9" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0073e6" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00a8ff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=7cff01" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=00ccff" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=0088cc" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black&color=4dd2ff" />
 </div>
 
 <br>
 
 ---
 
-## 📊 Universo de Dados e Analytics
+<div align="center">
+  <h2>E S T A T Í S T I C A S</h2>
+</div>
 
 <div align="center">
-  <!-- Estatísticas lado a lado dimensionadas por 'height' (em). Remove o bug das tabelas!
-       Fundo transparente com a paleta Rosa (F47090), Azul (58B2DC), Amarelo (F1E05A) e Cinza (C9D1D9) -->
-  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=transparent&title_color=58B2DC&text_color=C9D1D9&icon_color=F47090&hide_border=true&hide_rank=true" />
-  
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=transparent&border=transparent&stroke=58B2DC&ring=F47090&fire=F47090&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58B2DC&sideLabels=58B2DC&dates=C9D1D9&hide_border=true" />
-  
-  <br>
-  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=transparent&title_color=F47090&text_color=C9D1D9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=false&bg_color=eaffff&title_color=005b9f&text_color=0088cc&icon_color=00c2ff&border_color=00a8ff&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=false&bg_color=eaffff&title_color=005b9f&text_color=0088cc&border_color=00a8ff&border_radius=15" />
 </div>
 
 <br>
 
-## 🌐 Gráfico de Atividade
-
 <div align="center">
-  <!-- Gráfico de contribuição (Linha rosa, preenchimento de área) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=transparent&color=C9D1D9&line=F47090&point=58B2DC&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <h2>A T I V I D A D E</h2>
 </div>
 
-<br>
-
----
 <div align="center">
-  <img src="Tulips.jpg" alt="Tulipas Animadas em Pixel Art" width="100%" style="border-radius: 10px;" />
-  <br><br>
-  <i>"Design não é apenas o que parece e o que se sente. Design é como funciona."</i><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="35" height="35" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&bg_color=eaffff&color=00a8ff&line=7cff01&point=005b9f&area=true&hide_border=false&border_radius=15&title_color=005b9f" alt="Contribution Graph" />
 </div>
