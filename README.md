@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" style="border-radius: 15px;"/>
+  <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="60%" style="border-radius: 15px;"/>
   
   <br><br>
   
-  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="89" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=F47090&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
 
   <h3>Desenvolvedora Full-Stack | UX/UI Designer | AI Explorer</h3>
+
+  <img src="pink_eyes.jpeg" alt="pink_eyes" width="49%" style="border-radius: 10px;" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kelryana&label=Profile%20views&color=58B2DC&style=flat-square" alt="Profile views" />
@@ -38,7 +40,7 @@
       <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #F47090;"/> <b>Missão:</b> Unir estética imersiva com usabilidade e funcionalidade avançada.
     </td>
     <td width="40%" align="center">
-      <img src="Tulips.gif" width="70%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(88,178,220,0.5);"/>
+      <img src="Tulips.gif" width="80%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(88,178,220,0.5);"/>
     </td>
   </tr>
 </table>
@@ -77,11 +79,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=1A1A1A&color=ffffff&line=F47090&point=58B2DC&area=true&hide_border=true" alt="Contribution Graph" />
+  <!-- Gráfico de Contribuições Estável (Estilo Grelha) em Rosa Lótus -->
+  <img src="https://ghchart.rshah.org/F47090/kelryana" alt="Contribution Graph" width="90%" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="Tulips.jpg" alt="Tulipas Animadas em Pixel Art" width="100%" style="border-radius: 10px;" />
-</div>
