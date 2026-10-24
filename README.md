@@ -1,5 +1,5 @@
 <div align="center">
- <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
+  <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
 </div>
 
 <br>
