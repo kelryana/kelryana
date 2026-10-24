@@ -1,11 +1,11 @@
 <div align="center">
- <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" />
+ <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=F47090&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
 </div>
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
+  <img src="Tulips.gif" alt="Tulipas" width="90" />
 </div>
 
 <br>
