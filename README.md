@@ -1,78 +1,61 @@
 <div align="center">
- <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
+ <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="LilyView.png" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
+  <img src="LilyView.jpeg" alt="Ícone Flor de Lótus Frutiger Aero" width="85" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=E3689A&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=35&color=F47090&center=true&vCenter=true&width=500&lines=hi%2C+i%27m+kelry+%3C3" alt="hi, i'm kelry <3" />
 </div>
 
 <div align="center">
-  <p><b>Front-end Developer | UX/UI Designer | Graphic Designer</b></p>
-  <p><i>Especializada na criação de componentes de dashboard estruturados, alternância de temas dinâmicos e otimização de contraste visual para máxima legibilidade e interfaces minimalistas.</i></p>
+  <p><b>Desenvolvedora Full-Stack | UX/UI Designer | AI Explorer</b></p>
+  <p><i>Construindo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end. Atualmente pesquisando a composição lógica por trás da Inteligência Artificial.</i></p>
 </div>
 
-<br>
-
+<!-- Links de Contacto estilo Badges -->
 <div align="center">
-  <img src="Tulips.gif" alt="Tulipas Gif" width="400" />
-</div>
-
-<br>
-
-### 🪟 Stack de Design e Desenvolvimento
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br><b>HTML5</b>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br><b>CSS3</b>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br><b>JavaScript</b>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /><br><b>Figma</b>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-00000000?style=for-the-badge&logo=gmail&logoColor=F47090" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-00000000?style=for-the-badge&logo=linkedin&logoColor=58B2DC" alt="LinkedIn" /></a>
+  <a href="https://seu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00000000?style=for-the-badge&logo=figma&logoColor=F1E05A" alt="Portfolio" /></a>
 </div>
 
 <br>
 
-### 💿 Projetos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Dashboards & UX/UI</h3>
-      <p>Desenvolvimento e avaliação de interfaces web focadas em usabilidade. Implementação de alternâncias de tema (Dark/Light mode) e aplicação de esquemas de cores de alto contraste, garantindo estética limpa sem sacrificar a clareza e acessibilidade.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Auditoria de Políticas Públicas</h3>
-      <p>Design de frameworks de prompts estruturados para a avaliação neutra e auditoria de propostas governamentais, focando na análise de realismo orçamentário, viabilidade jurídica e escalabilidade operacional.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
+</div>
 
 <br>
 
-### 📈 Minhas Estatísticas
+### 🪟 Tecnologias e Ecossistema
 
 <div align="center">
-  <!-- Gráfico de Atividade -->
+  <!-- Ícones com alinhamento limpo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" style="margin: 0 10px;" />
+</div>
+
+<br>
+
+### 📈 Analytics e Contribuições
+
+<div align="center">
+  <!-- Gráfico de Atividade Principal Ocupando 100% da largura (Semelhante ao Exemplo 2 e 3) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=C9D1D9&line=F47090&point=F1E05A&hide_border=true" alt="Gráfico de Atividade" width="100%" />
-  
-  <br>
+</div>
 
-  <!-- Painel de Streak e Linguagens -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=00000000&border=00000000&stroke=F47090&ring=F1E05A&fire=F47090&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F47090&sideLabels=F47090&dates=C9D1D9" alt="Estatísticas de Streak" width="48%" />
+<br>
+
+<div align="center">
+  <!-- Painéis divididos a 50% para emular as grelhas analíticas dos exemplos -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=00000000&title_color=F47090&text_color=C9D1D9&icon_color=F1E05A&border_color=00000000&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=F47090&text_color=C9D1D9&border_color=00000000&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
 </div>
 
