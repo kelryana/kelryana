@@ -43,20 +43,38 @@
 
 <br>
 
-### 📈 Analytics e Contribuições
+<br>
 
 <div align="center">
-  <!-- Gráfico de Atividade Principal Ocupando 100% da largura (Semelhante ao Exemplo 2 e 3) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=C9D1D9&line=F47090&point=F1E05A&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+  <img src="image_2f0186.png" alt="Gotas de Água" width="90" />
 </div>
 
 <br>
 
+### 📈 Universo de Dados e Analytics
+
 <div align="center">
-  <!-- Painéis divididos a 50% para emular as grelhas analíticas dos exemplos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=00000000&title_color=F47090&text_color=C9D1D9&icon_color=F1E05A&border_color=00000000&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=F47090&text_color=C9D1D9&border_color=00000000&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
+  <!-- Topo: Painéis Lado a Lado (Estrutura inspirada no perfil Benjamin) -->
+  <table align="center" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Estatísticas Gerais -->
+        <img src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=00000000&title_color=58B2DC&text_color=C9D1D9&icon_color=F47090&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Estatísticas de Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelryana&background=00000000&border=00000000&stroke=58B2DC&ring=F47090&fire=F47090&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58B2DC&sideLabels=58B2DC&dates=C9D1D9&hide_border=true" alt="Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Meio: Stack Analytics (Inspirado no Activity Pulse / Stack do perfil ACE) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=00000000&title_color=F47090&text_color=C9D1D9&border_color=00000000&hide_border=true" alt="Stack Analytics" width="70%" />
+
+  <br><br>
+
+  <!-- Fundo: Gráfico de Linha de Contribuições com preenchimento de área -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=00000000&color=C9D1D9&line=F47090&point=58B2DC&area=true&hide_border=true" alt="Activity Pulse Graph" width="100%" />
 </div>
 
 <br>
