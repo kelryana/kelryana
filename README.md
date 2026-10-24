@@ -66,8 +66,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=transparent&title_color=58B2DC&text_color=C9D1D9&icon_color=F47090&hide_border=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=transparent&title_color=F47090&text_color=C9D1D9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=1A1A1A&title_color=58B2DC&text_color=ffffff&icon_color=F47090&hide_border=true&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=1A1A1A&title_color=F47090&text_color=ffffff&hide_border=true" />
 </div>
 
 <br>
@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=transparent&color=C9D1D9&line=F47090&point=58B2DC&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelryana&bg_color=1A1A1A&color=ffffff&line=F47090&point=58B2DC&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br>
