@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="Tulips.gif" alt="Tulipas" width="100" />
+  <img src="Tulips.gif" alt="Tulipas" width="200" />
 </div>
 
 <br>
