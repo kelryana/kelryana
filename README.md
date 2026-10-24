@@ -36,14 +36,14 @@
     <td width="60%" valign="top">
       Olá! Sou a Kelryana, especialista focada na interseção entre <b>Design, Código e IA</b>.
       <br><br>
-      <img src="coracao.gif" width="14" height="14" /> <b>O que eu faço:</b> Construo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end.
+      <img src="coracao.gif" width="20" height="20" /> <b>O que eu faço:</b> Construo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end.
       <br><br>
-      <img src="coracao.gif" width="14" height="14" /> <b>Pesquisa atual:</b> Estou aprofundando os meus estudos na composição lógica por trás da Inteligência Artificial.
+      <img src="coracao.gif" width="20" height="20" /> <b>Pesquisa atual:</b> Estou aprofundando os meus estudos na composição lógica por trás da Inteligência Artificial.
       <br><br>
-      <img src="coracao.gif" width="14" height="14" /> <b>Missão:</b> Unir estética imersiva com usabilidade e funcionalidade avançada.
+      <img src="coracao.gif" width="20" height="20" /> <b>Missão:</b> Unir estética imersiva com usabilidade e funcionalidade avançada.
     </td>
     <td width="40%" align="center">
-      <img src="Tulips.gif" width="80%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(88,178,220,0.5);"/>
+      <img src="Tulips.gif" width="87%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(220, 88, 123, 0.5);"/>
     </td>
   </tr>
 </table>
