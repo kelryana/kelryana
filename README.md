@@ -9,11 +9,14 @@
 
   <h3>Desenvolvedora Full-Stack | UX/UI Designer | AI Explorer</h3>
 
+  <div align="center">
   <img src="pink_eyes.jpeg" alt="pink_eyes" width="49%" style="border-radius: 10px;" />
+</div>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kelryana&label=Profile%20views&color=58B2DC&style=flat-square" alt="Profile views" />
   </p>
+
   
   <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=for-the-badge&logo=Linkedin&logoColor=58B2DC"/></a>
   <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-1A1A1A?style=for-the-badge&logo=Gmail&logoColor=F47090"/></a>
@@ -33,11 +36,11 @@
     <td width="60%" valign="top">
       Olá! Sou a Kelryana, especialista focada na interseção entre <b>Design, Código e IA</b>.
       <br><br>
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #F47090;"/> <b>O que eu faço:</b> Construo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end.
+      <img src="coracao.gif" width="14" height="14" /> <b>O que eu faço:</b> Construo interfaces minimalistas de alto contraste e arquiteturas robustas no back-end.
       <br><br>
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #F47090;"/> <b>Pesquisa atual:</b> Estou aprofundando os meus estudos na composição lógica por trás da Inteligência Artificial.
+      <img src="coracao.gif" width="14" height="14" /> <b>Pesquisa atual:</b> Estou aprofundando os meus estudos na composição lógica por trás da Inteligência Artificial.
       <br><br>
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-right.svg" width="12" height="12" style="fill: #F47090;"/> <b>Missão:</b> Unir estética imersiva com usabilidade e funcionalidade avançada.
+      <img src="coracao.gif" width="14" height="14" /> <b>Missão:</b> Unir estética imersiva com usabilidade e funcionalidade avançada.
     </td>
     <td width="40%" align="center">
       <img src="Tulips.gif" width="80%" alt="Frutiger Aero aesthetic" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(88,178,220,0.5);"/>
@@ -68,8 +71,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=1A1A1A&title_color=58B2DC&text_color=ffffff&icon_color=F47090&hide_border=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=1A1A1A&title_color=F47090&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelryana&show_icons=true&bg_color=22252C&title_color=D0A954&text_color=ffffff&icon_color=F47090&hide_border=true&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelryana&layout=compact&bg_color=22252C&title_color=F2526B&text_color=ffffff&hide_border=true" />
 </div>
 
 <br>
@@ -79,8 +82,7 @@
 </div>
 
 <div align="center">
-  <!-- Gráfico de Contribuições Estável (Estilo Grelha) em Rosa Lótus -->
-  <img src="https://ghchart.rshah.org/F47090/kelryana" alt="Contribution Graph" width="90%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=kelryana&bg_color=22252C&color=f6f0e3&line=b3406f&point=f6f0e3&area_color=D0A954&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%" />
 </div>
 
 <br>
