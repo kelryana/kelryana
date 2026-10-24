@@ -1,5 +1,5 @@
 <div align="center">
- <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="100%" />
+ <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="70%" />
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="Tulips.gif" alt="Tulipas Gif" width="100" />
+  <img src="Tulips.gif" alt="Tulipas Gif" width="400" />
 </div>
 
 <br>
