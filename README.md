@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="banner.gif" alt="Banner Frutiger Aero Animado" width="60%" style="border-radius: 15px;"/>
   
   <br><br>
   
